@@ -1,1 +1,9 @@
-
+#island{
+  border: 6.8px solid #2a3f55;
+  border-radius: 38px;
+  width: 660px;
+  background: #0a1624;
+  margin: 0 auto;
+  padding: 50px solid #baafa5;
+  height: 2435px;
+}
