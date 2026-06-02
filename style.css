@@ -93,3 +93,16 @@ header h1 {
 	font-size: 6vh;
 	text-align: center;
 }
+
+#rickroll.visited {
+  visibility: hidden; /* Hides the original text */
+  position: relative;
+}
+
+#rickroll.visited::after {
+  content: "get rickrolled lol"; /* Injects the new text */
+  visibility: visible; /* Makes the new text visible */
+  position: absolute;
+  top: 0;
+  left: 0;
+}
