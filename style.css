@@ -7,3 +7,8 @@
   padding: 50px solid #baafa5;
   height: 2435px;
 }
+title {
+  background-color: linear-gradient(to right, green, blue, yellow);
+  -webkit-background-clip: text;
+  color: transparent;
+}
