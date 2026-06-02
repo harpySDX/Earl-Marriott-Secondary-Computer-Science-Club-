@@ -95,13 +95,13 @@ header h1 {
 }
 
 #rickroll.visited {
-  visibility: hidden; /* Hides the original text */
+  visibility: hidden;
   position: relative;
 }
 
 #rickroll.visited::after {
-  content: "get rickrolled lol"; /* Injects the new text */
-  visibility: visible; /* Makes the new text visible */
+  content: "get rickrolled lol";
+  visibility: visible;
   position: absolute;
   top: 0;
   left: 0;
