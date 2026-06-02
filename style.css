@@ -8,7 +8,7 @@
   height: 2435px;
 }
 title {
-  background-color: linear-gradient(to right, green, blue, yellow);
+  background-color: linear-gradient (to right, green, blue, yellow);
   -webkit-background-clip: text;
   color: transparent;
 }
