@@ -7,3 +7,7 @@ ACCEPT THE INVITE TO THE NEW REPOSITORY.
 
 THIS IS WHAT YOU SHOULD SEE IN YOUR INBOX. 
 <img width="1688" height="422" alt="image" src="https://github.com/user-attachments/assets/ed65426f-71af-45fb-a57c-6d3c3fc316a3" />
+
+
+ACCEPT THE INVITE.
+<img width="625" height="585" alt="image" src="https://github.com/user-attachments/assets/d8196b5f-7789-425c-8fe4-c146b8650e99" />
